@@ -1,4 +1,4 @@
-package org.rookie.test.basic;
+package org.rookie.test;
 
 import org.junit.Test;
 

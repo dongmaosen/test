@@ -1,4 +1,4 @@
-package org.rookie.test.thread;
+package org.rookie.test;
 
 import org.junit.Test;
 
